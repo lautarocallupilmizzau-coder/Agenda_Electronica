@@ -1,9 +1,5 @@
 📒 AGENDA ELECTRÓNICA – Proyecto en Java (NetBeans)
-   ___           _                 
-  / _ \   __ _  | |__    ___   __ _ 
- / /_)/  / _` | | '_ \  / _ \ / _` |
-/ ___/  | (_| | | |_) ||  __/| (_| |
-\/       \__,_| |_.__/  \___| \__,_|
+PABEA
 
         AGENDA ELECTRÓNICA
 Una aplicación desarrollada en Java (Swing) utilizando NetBeans, diseñada para gestionar contactos de forma sencilla mediante una interfaz gráfica intuitiva.
